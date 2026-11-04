@@ -1,0 +1,13 @@
+{
+  "itemGroup.uncivcraft": "Example Mod Tab",
+  "block.uncivcraft.example_block": "Example Block",
+  "item.uncivcraft.example_item": "Example Item",
+
+  "uncivcraft.configuration.title": "unciv-craft Configs",
+  "uncivcraft.configuration.section.uncivcraft.common.toml": "unciv-craft Configs",
+  "uncivcraft.configuration.section.uncivcraft.common.toml.title": "unciv-craft Configs",
+  "uncivcraft.configuration.items": "Item List",
+  "uncivcraft.configuration.logDirtBlock": "Log Dirt Block",
+  "uncivcraft.configuration.magicNumberIntroduction": "Magic Number Text",
+  "uncivcraft.configuration.magicNumber": "Magic Number"
+}
